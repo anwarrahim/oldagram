@@ -1,0 +1,30 @@
+
+body{
+    margin: 0;
+    font-family: "Source Sans 3", serif;
+    font-optical-sizing: auto;
+}
+
+.container{
+    width: 375px;
+    margin: 30px auto;
+    background-color: antiquewhite;
+    padding: 20px;
+}
+
+
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+header h1 {
+    font-family: "Source Sans 3", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.profile-pic{
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+}
