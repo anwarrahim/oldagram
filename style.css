@@ -28,3 +28,6 @@ header h1 {
     height: 34px;
     border-radius: 50%;
 }
+.post-content-profile{
+    float: left;
+}
