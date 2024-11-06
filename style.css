@@ -60,3 +60,23 @@ font-weight: bold;
 .post-image img{
 
 }
+.post-content-interaction-buttons{
+    margin: 10px;
+}
+
+
+.list-interaction-button{
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+
+}
+.list-interaction-button li{
+    margin: 10px 10px 0 0;
+}
+
+.likes{
+    font-weight: bold;
+
+}
